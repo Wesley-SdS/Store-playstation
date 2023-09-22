@@ -1,0 +1,12 @@
+.container-banner{    
+
+}
+.container-banner > img{
+    max-width: 100%; /* Defina a largura máxima para 100% */
+    height: auto;    /* Mantém a proporção da altura */
+    max-height: 306px; /* Define a altura máxima, se necessário */
+    position:absolute;
+	top:130px;
+	right: 200px;
+ 
+}
